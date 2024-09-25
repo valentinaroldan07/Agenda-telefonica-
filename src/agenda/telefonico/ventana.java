@@ -14,7 +14,7 @@ public class ventana extends JFrame {
     JTextField txt1 = new JTextField();
     JTextField txt2 = new JTextField();
     JTextField txt3 = new JTextField();
-    Contacto datos[] = new Contacto [20];
+    
 
     public ventana() {
         this.setVisible(true);
